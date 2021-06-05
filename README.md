@@ -4,8 +4,10 @@ This project is used to detect your finger and track it as you move it around an
 recognise the character drawn using Deep Learning.
 
 Made with :- ~ OpenCV ~ Python ~ Pytorch
+
 About Pytorch:https://pytorch.org/
-about Opencv:https://opencv.org/about/
+
+About Opencv:https://opencv.org/about/
 
 Skin tone of hand is extracted so that it works in different lighting conditions using Histogram and
 hand is pulled out from the image using Back-Projection.
